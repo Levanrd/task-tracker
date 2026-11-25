@@ -2,6 +2,8 @@
 
 Task Tracker CLI is a Laravel 13 command-line app for adding and listing tasks. It stores tasks locally in a JSON file.
 
+Project brief on roadmap.sh: <https://roadmap.sh/projects/task-tracker>
+
 ## Getting started
 
 Use PHP 8.5 and Composer. In PowerShell or Bash, run these commands for a fresh checkout.
